@@ -1,0 +1,17 @@
+batch.txt
+built_in.c
+built_in.h
+built_in.o
+commands.c
+commands.h
+commands.o
+hello
+hello.txt
+Makefile
+README.md
+tests
+tests-out
+test-wish.sh
+wish
+wish.c
+wish.o

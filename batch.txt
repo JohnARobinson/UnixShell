@@ -1,0 +1,5 @@
+path /bin tests
+p5.sh > hello1 & p4.sh > hello1
+cat hello1
+rm hello1
+exit

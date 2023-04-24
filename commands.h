@@ -1,0 +1,1 @@
+int commands(char command[]);
